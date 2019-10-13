@@ -1,0 +1,9 @@
+.jumbotron {
+    background-image :url(./bg1.jpeg)!important;
+    background-size: cover!important;
+    height: auto;
+}
+
+.tagline {
+    padding-top :17rem;
+}
